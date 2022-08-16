@@ -1,0 +1,3 @@
+# discord word game
+
+lets try this out...
